@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Add Bank.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Add Branch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Add Customer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Admin List.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Admin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Banks List.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Branches List.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Branches Stats.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Create Account.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Customer Stats.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Customer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Customers List.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Default.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Employee Customer List.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Employee List.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Employee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Employees Stats.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Loans List.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Pay Loan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Request Loan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Sign Up Admin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Sign Up Customer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Sign Up Employee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Transaction.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="TransactionEmployee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Updata Admin Details.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Updata Details.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Update Employee Details.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="View Acc Details.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="View Requested Loans.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Welcome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Withdraw_Deposit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

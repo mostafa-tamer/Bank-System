@@ -1,0 +1,478 @@
+C:\Users\Mostafa\Desktop\Bank System\Bank System\bin\Debug\net6.0-windows\Bank System.exe
+C:\Users\Mostafa\Desktop\Bank System\Bank System\bin\Debug\net6.0-windows\Bank System.deps.json
+C:\Users\Mostafa\Desktop\Bank System\Bank System\bin\Debug\net6.0-windows\Bank System.runtimeconfig.json
+C:\Users\Mostafa\Desktop\Bank System\Bank System\bin\Debug\net6.0-windows\Bank System.dll
+C:\Users\Mostafa\Desktop\Bank System\Bank System\bin\Debug\net6.0-windows\Bank System.pdb
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank System.csproj.AssemblyReference.cache
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Form1.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Login.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank System.csproj.GenerateResource.cache
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank System.AssemblyInfoInputs.cache
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank System.AssemblyInfo.cs
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank System.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank System.dll
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\refint\Bank System.dll
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank System.pdb
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank System.genruntimeconfig.cache
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\ref\Bank System.dll
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Admin.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Properties.Resources.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Add_Customer.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\bin\Debug\net6.0-windows\Bank System.exe
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\bin\Debug\net6.0-windows\Bank System.deps.json
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\bin\Debug\net6.0-windows\Bank System.runtimeconfig.json
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\bin\Debug\net6.0-windows\Bank System.dll
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\bin\Debug\net6.0-windows\Bank System.pdb
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank System.csproj.AssemblyReference.cache
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Add_Customer.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Form1.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Login.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Properties.Resources.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank System.csproj.GenerateResource.cache
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank System.AssemblyInfoInputs.cache
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank System.AssemblyInfo.cs
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank System.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank System.dll
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\refint\Bank System.dll
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank System.pdb
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank System.genruntimeconfig.cache
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\ref\Bank System.dll
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Sign_Up_Customer.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Employee.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Create_Account.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Default.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Updata_Details.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Pay_Loan.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Admin.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Add_Bank.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Add_Branch.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank System.csproj.CopyComplete
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Sign_Up_Employee.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Welcome.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Update_Employee_Details.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Customers_List.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Sign_Up_Admin.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Updata_Admin_Details.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Employee_List.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Loans_List.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Banks_List.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Branches_List.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Branches_Stats.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Customer_Stats.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Employees_Stats.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Customer.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Request_Loan.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Transaction.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.View_Acc_Details.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.TransactionEmployee.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\bin\Debug\net6.0-windows\Bank System.dll.config
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Admin_List.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.About.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Withdraw_Deposit.resources
+C:\Users\Mostafa\Desktop\Database Project\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.View_Requested_Loans.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\Bank System.exe
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\Bank System.dll.config
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\Bank System.deps.json
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\Bank System.runtimeconfig.json
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\Bank System.dll
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\Bank System.pdb
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.csproj.AssemblyReference.cache
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.About.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Add_Bank.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Add_Branch.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Add_Customer.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Admin_List.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Admin.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Banks_List.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Branches_List.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Branches_Stats.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Create_Account.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Customer_Stats.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Customer.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Customers_List.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Default.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Employee_List.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Employee.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Employees_Stats.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Form1.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Loans_List.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Login.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Pay_Loan.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Properties.Resources.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Request_Loan.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Sign_Up_Admin.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Sign_Up_Customer.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Sign_Up_Employee.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Transaction.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.TransactionEmployee.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Updata_Admin_Details.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Updata_Details.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Update_Employee_Details.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.View_Acc_Details.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.View_Requested_Loans.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Welcome.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Withdraw_Deposit.resources
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.csproj.GenerateResource.cache
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.AssemblyInfoInputs.cache
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.AssemblyInfo.cs
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.csproj.CopyComplete
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.dll
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\refint\Bank System.dll
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.pdb
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.genruntimeconfig.cache
+C:\Users\Mostafa\Desktop\Database Project Submition\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\ref\Bank System.dll
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\Bank System.exe
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\Bank System.dll.config
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\Bank System.deps.json
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\Bank System.runtimeconfig.json
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\Bank System.dll
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\Bank System.pdb
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.csproj.AssemblyReference.cache
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.About.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Add_Bank.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Add_Branch.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Add_Customer.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Admin_List.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Admin.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Banks_List.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Branches_List.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Branches_Stats.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Create_Account.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Customer_Stats.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Customer.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Customers_List.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Default.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Employee_List.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Employee.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Employees_Stats.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Form1.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Loans_List.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Login.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Pay_Loan.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Properties.Resources.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Request_Loan.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Sign_Up_Admin.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Sign_Up_Customer.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Sign_Up_Employee.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Transaction.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.TransactionEmployee.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Updata_Admin_Details.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Updata_Details.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Update_Employee_Details.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.View_Acc_Details.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.View_Requested_Loans.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Welcome.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Withdraw_Deposit.resources
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.csproj.GenerateResource.cache
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.AssemblyInfoInputs.cache
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.AssemblyInfo.cs
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.csproj.CopyComplete
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.dll
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\refint\Bank System.dll
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.pdb
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.genruntimeconfig.cache
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\ref\Bank System.dll
+C:\Users\Mostafa\Desktop\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Employee_Customer_List.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\Bank System.exe
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\Bank System.dll.config
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\Bank System.deps.json
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\Bank System.runtimeconfig.json
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\Bank System.dll
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\Bank System.pdb
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.csproj.AssemblyReference.cache
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.About.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Add_Bank.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Add_Branch.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Add_Customer.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Admin_List.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Admin.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Banks_List.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Branches_List.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Branches_Stats.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Create_Account.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Customer_Stats.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Customer.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Customers_List.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Default.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Employee_Customer_List.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Employee_List.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Employee.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Employees_Stats.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Form1.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Loans_List.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Login.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Pay_Loan.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Properties.Resources.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Request_Loan.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Sign_Up_Admin.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Sign_Up_Customer.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Sign_Up_Employee.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Transaction.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.TransactionEmployee.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Updata_Admin_Details.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Updata_Details.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Update_Employee_Details.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.View_Acc_Details.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.View_Requested_Loans.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Welcome.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Withdraw_Deposit.resources
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.csproj.GenerateResource.cache
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.AssemblyInfoInputs.cache
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.AssemblyInfo.cs
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.csproj.CopyComplete
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.dll
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\refint\Bank System.dll
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.pdb
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.genruntimeconfig.cache
+C:\Users\Mostafa\Desktop\FCAI\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\ref\Bank System.dll
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\Bank System.exe
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\Bank System.dll.config
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\Bank System.deps.json
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\Bank System.runtimeconfig.json
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\Bank System.dll
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\Bank System.pdb
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.csproj.AssemblyReference.cache
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.About.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Add_Bank.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Add_Branch.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Add_Customer.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Admin_List.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Admin.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Banks_List.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Branches_List.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Branches_Stats.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Create_Account.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Customer_Stats.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Customer.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Customers_List.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Default.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Employee_Customer_List.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Employee_List.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Employee.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Employees_Stats.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Form1.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Loans_List.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Login.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Pay_Loan.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Properties.Resources.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Request_Loan.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Sign_Up_Admin.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Sign_Up_Customer.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Sign_Up_Employee.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Transaction.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.TransactionEmployee.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Updata_Admin_Details.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Updata_Details.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Update_Employee_Details.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.View_Acc_Details.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.View_Requested_Loans.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Welcome.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Withdraw_Deposit.resources
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.csproj.GenerateResource.cache
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.AssemblyInfoInputs.cache
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.AssemblyInfo.cs
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.csproj.CopyComplete
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.dll
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\refint\Bank System.dll
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.pdb
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.genruntimeconfig.cache
+C:\Users\Mostafa\Desktop\New folder\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\ref\Bank System.dll
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\Bank System.exe
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\Bank System.dll.config
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\Bank System.deps.json
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\Bank System.runtimeconfig.json
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\Bank System.dll
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\Bank System.pdb
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.csproj.AssemblyReference.cache
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.About.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Add_Bank.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Add_Branch.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Add_Customer.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Admin_List.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Admin.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Banks_List.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Branches_List.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Branches_Stats.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Create_Account.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Customer_Stats.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Customer.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Customers_List.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Default.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Employee_Customer_List.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Employee_List.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Employee.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Employees_Stats.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Form1.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Loans_List.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Login.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Pay_Loan.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Properties.Resources.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Request_Loan.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Sign_Up_Admin.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Sign_Up_Customer.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Sign_Up_Employee.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Transaction.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.TransactionEmployee.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Updata_Admin_Details.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Updata_Details.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Update_Employee_Details.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.View_Acc_Details.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.View_Requested_Loans.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Welcome.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank_System.Withdraw_Deposit.resources
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.csproj.GenerateResource.cache
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.GeneratedMSBuildEditorConfig.editorconfig
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.AssemblyInfoInputs.cache
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.AssemblyInfo.cs
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.csproj.CoreCompileInputs.cache
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.csproj.CopyComplete
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.dll
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\refint\Bank System.dll
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.pdb
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\Bank System.genruntimeconfig.cache
+D:\FCAI\Level 2 - Second Term\Database\Bank System Project\Bank System Source Code\Bank System\obj\Debug\net6.0-windows\ref\Bank System.dll
+C:\Users\Mostafa\Desktop\Bank System\Bank System\bin\Debug\net6.0-windows\Bank System.dll.config
+C:\Users\Mostafa\Desktop\Bank System\Bank System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Mostafa\Desktop\Bank System\Bank System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Mostafa\Desktop\Bank System\Bank System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Mostafa\Desktop\Bank System\Bank System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Mostafa\Desktop\Bank System\Bank System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mostafa\Desktop\Bank System\Bank System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.About.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Add_Bank.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Add_Branch.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Admin_List.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Banks_List.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Branches_List.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Branches_Stats.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Create_Account.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Customer_Stats.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Customer.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Customers_List.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Default.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Employee_Customer_List.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Employee_List.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Employee.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Employees_Stats.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Loans_List.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Pay_Loan.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Request_Loan.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Sign_Up_Admin.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Sign_Up_Customer.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Sign_Up_Employee.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Transaction.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.TransactionEmployee.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Updata_Admin_Details.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Updata_Details.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Update_Employee_Details.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.View_Acc_Details.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.View_Requested_Loans.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Welcome.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Withdraw_Deposit.resources
+C:\Users\Mostafa\Desktop\Bank System\Bank System\obj\Debug\net6.0-windows\Bank System.csproj.CopyComplete
+D:\Programing Projects\C#\Bank System\Bank System\bin\Debug\net6.0-windows\Bank System.exe
+D:\Programing Projects\C#\Bank System\Bank System\bin\Debug\net6.0-windows\Bank System.dll.config
+D:\Programing Projects\C#\Bank System\Bank System\bin\Debug\net6.0-windows\Bank System.deps.json
+D:\Programing Projects\C#\Bank System\Bank System\bin\Debug\net6.0-windows\Bank System.runtimeconfig.json
+D:\Programing Projects\C#\Bank System\Bank System\bin\Debug\net6.0-windows\Bank System.dll
+D:\Programing Projects\C#\Bank System\Bank System\bin\Debug\net6.0-windows\Bank System.pdb
+D:\Programing Projects\C#\Bank System\Bank System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Programing Projects\C#\Bank System\Bank System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Programing Projects\C#\Bank System\Bank System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Programing Projects\C#\Bank System\Bank System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Programing Projects\C#\Bank System\Bank System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Programing Projects\C#\Bank System\Bank System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank System.csproj.AssemblyReference.cache
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.About.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Add_Bank.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Add_Branch.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Add_Customer.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Admin_List.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Admin.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Banks_List.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Branches_List.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Branches_Stats.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Create_Account.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Customer_Stats.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Customer.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Customers_List.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Default.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Employee_Customer_List.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Employee_List.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Employee.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Employees_Stats.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Form1.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Loans_List.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Login.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Pay_Loan.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Properties.Resources.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Request_Loan.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Sign_Up_Admin.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Sign_Up_Customer.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Sign_Up_Employee.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Transaction.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.TransactionEmployee.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Updata_Admin_Details.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Updata_Details.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Update_Employee_Details.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.View_Acc_Details.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.View_Requested_Loans.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Welcome.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank_System.Withdraw_Deposit.resources
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank System.csproj.GenerateResource.cache
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank System.AssemblyInfoInputs.cache
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank System.AssemblyInfo.cs
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank System.csproj.CoreCompileInputs.cache
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank System.csproj.CopyComplete
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank System.dll
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\refint\Bank System.dll
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank System.pdb
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\Bank System.genruntimeconfig.cache
+D:\Programing Projects\C#\Bank System\Bank System\obj\Debug\net6.0-windows\ref\Bank System.dll
